@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+CLAUDE.local.md
+.claude/settings.local.json
+.claude/worktrees/
+harness/skills/claude-engineering/.references.*
+.public-export-marker
